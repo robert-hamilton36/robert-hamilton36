@@ -1,5 +1,12 @@
-### Hi there 👋
+# Robert hamilton
 
+
+Hi there I am a full-stack developer with a background in science. 
+With an avid love for the outdoors and rock climbing, I'm motivated by a passion to learn and to explore.
+I work in supportive and collaborative teams that nurture growth, which together results in me climbing high, without fear of falling
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/robert-h36/)
 <!--
 **robert-hamilton36/robert-hamilton36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
